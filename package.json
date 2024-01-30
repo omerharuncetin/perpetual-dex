@@ -1,15 +1,13 @@
 {
-  "name": "case",
+  "name": "profit-cycle-perpetual-dex",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "test": "hardhat test",
     "compile": "hardhat compile"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "https://github.com/omerharuncetin",
+  "license": "MIT",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "hardhat": "^2.19.4"
